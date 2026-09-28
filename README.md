@@ -2,7 +2,7 @@
 
 Website portofolio pribadi yang menampilkan profil, keahlian, dan proyek selama menjadi mahasiswa Program Studi Teknik Komputer, Universitas Negeri Makassar (UNM). Dibangun sebagai tugas mata kuliah pemrograman web, murni pakai HTML dan CSS (tanpa framework/library eksternal selain Google Fonts).
 
-**Live site:** [kefciii.github.io/Portofolio](https://kefciii.github.io/Portofolio/)
+**Live site:** [https://github.com/Syafaat-dev](https://syafaat-dev.github.io/Portofolio)
 
 ## Struktur halaman
 
@@ -24,7 +24,3 @@ Website portofolio pribadi yang menampilkan profil, keahlian, dan proyek selama 
 - Desain gelap (dark theme) memakai warna resmi Linux Mint
 - Responsif — sidebar menumpuk di atas konten pada layar sempit
 - Dasar aksesibilitas: skip-link, focus state yang terlihat, `alt` text pada gambar
-
-## Catatan
-
-Proyek ini merupakan revisi dari versi awal yang tampilannya masih terasa generik/template. Desain dirombak ulang supaya lebih personal dan mencerminkan identitas pembuatnya sebagai pengguna Linux Mint sehari-hari.
