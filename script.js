@@ -101,4 +101,8 @@ function initScrollReveal() {
     }, { threshold: 0.15, rootMargin: '0px 0px -40px 0px' });
 
     sections.forEach(section => observer.observe(section));
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 6c17aff8ab3e929755e4c21b021273c1f68eff7b
